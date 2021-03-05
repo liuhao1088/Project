@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/project.iml" filepath="$PROJECT_DIR$/.idea/project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xi-util-geodesy/xi-util-geodesy.iml" filepath="$PROJECT_DIR$/xj-utils/xi-util-geodesy/xi-util-geodesy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-aliyun-oss/xj-api-aliyun-oss.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-aliyun-oss/xj-api-aliyun-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-aliyun-sms/xj-api-aliyun-sms.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-aliyun-sms/xj-api-aliyun-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-qiniu-oss/xj-api-qiniu-oss.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-qiniu-oss/xj-api-qiniu-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-wx-app/xj-api-wx-app.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-wx-app/xj-api-wx-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-wx-mp/xj-api-wx-mp.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-wx-mp/xj-api-wx-mp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-api-wx-pay/xj-api-wx-pay.iml" filepath="$PROJECT_DIR$/xj-third/xj-api-wx-pay/xj-api-wx-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base.iml" filepath="$PROJECT_DIR$/xj-base/xj-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base-admin/xj-base-admin.iml" filepath="$PROJECT_DIR$/xj-base/xj-base-admin/xj-base-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base-admin-ui/xj-base-admin-ui.iml" filepath="$PROJECT_DIR$/xj-base/xj-base-admin-ui/xj-base-admin-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base-core/xj-base-core.iml" filepath="$PROJECT_DIR$/xj-base/xj-base-core/xj-base-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base-jwt/xj-base-jwt.iml" filepath="$PROJECT_DIR$/xj-base/xj-base-jwt/xj-base-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-base/xj-base-result/xj-base-result.iml" filepath="$PROJECT_DIR$/xj-base/xj-base-result/xj-base-result.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-doc-knife4j/xj-doc-knife4j.iml" filepath="$PROJECT_DIR$/xj-third/xj-doc-knife4j/xj-doc-knife4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-doc-swagger2/xj-doc-swagger2.iml" filepath="$PROJECT_DIR$/xj-third/xj-doc-swagger2/xj-doc-swagger2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-doc-swagger2-ui/xj-doc-swagger2-ui.iml" filepath="$PROJECT_DIR$/xj-third/xj-doc-swagger2-ui/xj-doc-swagger2-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-fw-boot-admin/xj-fw-boot-admin.iml" filepath="$PROJECT_DIR$/xj-third/xj-fw-boot-admin/xj-fw-boot-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-fw-redis/xj-fw-redis.iml" filepath="$PROJECT_DIR$/xj-third/xj-fw-redis/xj-fw-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-fw-websocket/xj-fw-websocket.iml" filepath="$PROJECT_DIR$/xj-third/xj-fw-websocket/xj-fw-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-server/xj-server.iml" filepath="$PROJECT_DIR$/xj-server/xj-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-server/xj-test-server/xj-test-server.iml" filepath="$PROJECT_DIR$/xj-server/xj-test-server/xj-test-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-third/xj-third.iml" filepath="$PROJECT_DIR$/xj-third/xj-third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xj-util-core/xj-util-core.iml" filepath="$PROJECT_DIR$/xj-utils/xj-util-core/xj-util-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xj-util-fastjson/xj-util-fastjson.iml" filepath="$PROJECT_DIR$/xj-utils/xj-util-fastjson/xj-util-fastjson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xj-util-poi/xj-util-poi.iml" filepath="$PROJECT_DIR$/xj-utils/xj-util-poi/xj-util-poi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xj-util-qrcode/xj-util-qrcode.iml" filepath="$PROJECT_DIR$/xj-utils/xj-util-qrcode/xj-util-qrcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xj-utils/xj-utils.iml" filepath="$PROJECT_DIR$/xj-utils/xj-utils.iml" />
+    </modules>
+  </component>
+</project>

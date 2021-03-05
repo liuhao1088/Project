@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <artifactId>project</artifactId>
+        <groupId>com.ws.ldy</groupId>
+        <version>0.0.9-SNAPSHOT</version>
+    </parent>
+
+    <modelVersion>4.0.0</modelVersion>
+    <artifactId>xj-third</artifactId>
+    <name>xj-third</name>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>xj-api-aliyun-oss</module>
+        <module>xj-api-aliyun-sms</module>
+        <module>xj-api-qiniu-oss</module>
+        <module>xj-api-wx-mp</module>
+        <module>xj-api-wx-app</module>
+        <module>xj-api-wx-pay</module>
+        <module>xj-doc-swagger2</module>
+        <module>xj-doc-swagger2-ui</module>
+        <module>xj-doc-knife4j</module>
+        <module>xj-fw-websocket</module>
+        <module>xj-fw-redis</module>
+        <module>xj-fw-boot-admin</module>
+    </modules>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/xj-base/xj-base-admin-ui/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-base/xj-base-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-base/xj-base-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-base/xj-base-jwt/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-base/xj-base-result/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-server/xj-test-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-aliyun-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-aliyun-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-qiniu-oss/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-wx-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-wx-mp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-api-wx-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-doc-swagger2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-third/xj-fw-websocket/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-utils/xi-util-geodesy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-utils/xj-util-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-utils/xj-util-fastjson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-utils/xj-util-poi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xj-utils/xj-util-qrcode/src/main/java" charset="UTF-8" />
+  </component>
+</project>
