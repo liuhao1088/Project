@@ -36,7 +36,7 @@
     <orderEntry type="library" name="Maven: io.swagger:swagger-models:1.5.22" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.2.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.2.0.RELEASE" level="project" />
-    <orderEntry type="module" module-name="xj-util-fastjson" />
+    <orderEntry type="module" module-name="util-fastjson" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.61" level="project" />
     <orderEntry type="library" name="Maven: io.jsonwebtoken:jjwt:0.9.1" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.10.0" level="project" />

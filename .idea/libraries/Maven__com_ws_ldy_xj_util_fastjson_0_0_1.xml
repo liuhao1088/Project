@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.ws.ldy:xj-util-fastjson:0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repository/com/ws/ldy/xj-util-fastjson/0.0.1/xj-util-fastjson-0.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/xj-utils/xj-util-fastjson/xj-util-fastjson-0.0.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repository/com/ws/ldy/xj-util-fastjson/0.0.1/xj-util-fastjson-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/xj-utils/xj-util-fastjson/xj-util-fastjson-0.0.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../maven/apache-maven-3.6.3/repository/com/ws/ldy/xj-util-fastjson/0.0.1/xj-util-fastjson-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

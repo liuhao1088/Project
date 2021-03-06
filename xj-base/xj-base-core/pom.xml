@@ -23,8 +23,8 @@
     <dependencies>
         <dependency>
             <groupId>com.ws.ldy</groupId>
-            <artifactId>xj-util-core</artifactId>
-            <version>${xj-util-core.version}</version>
+            <artifactId>util-core</artifactId>
+            <version>${util-core.version}</version>
         </dependency>
 
         <dependency>

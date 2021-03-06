@@ -19,7 +19,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="xj-util-fastjson" />
+    <orderEntry type="module" module-name="util-fastjson" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.61" level="project" />
     <orderEntry type="module" module-name="xj-base-result" />
     <orderEntry type="library" name="Maven: org.springframework:spring-tx:5.2.0.RELEASE" level="project" />

@@ -62,14 +62,14 @@
         <!-- 工具- util 核心-常用工具类 -->
         <dependency>
             <groupId>com.ws.ldy</groupId>
-            <artifactId>xj-util-core</artifactId>
-            <version>${xj-util-core.version}</version>
+            <artifactId>util-core</artifactId>
+            <version>${util-core.version}</version>
         </dependency>
         <!-- 工具- fastjson -->
         <dependency>
             <groupId>com.ws.ldy</groupId>
-            <artifactId>xj-util-fastjson</artifactId>
-            <version>${xj-util-fastjson.version}</version>
+            <artifactId>util-fastjson</artifactId>
+            <version>${util-fastjson.version}</version>
         </dependency>
         <!-- 接口文档- swagger2  -->
         <dependency>

@@ -17,10 +17,10 @@
     <description>Demo project for Spring Boot</description>
 
     <modules>
-        <module>xj-server</module>      <!-- 代码    -->
+        <module>server</module>      <!-- 代码    -->
         <module>xj-third</module>       <!-- 功能集成 -->
         <module>xj-base</module>        <!-- 核心模块 -->
-        <module>xj-utils</module>       <!-- 工具集   -->
+        <module>utils</module>       <!-- 工具集   -->
     </modules>
 
     <properties>

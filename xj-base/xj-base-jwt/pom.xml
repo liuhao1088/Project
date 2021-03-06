@@ -23,8 +23,8 @@
         </dependency>
         <dependency>
             <groupId>com.ws.ldy</groupId>
-            <artifactId>xj-util-fastjson</artifactId>
-            <version>${xj-util-fastjson.version}</version>
+            <artifactId>util-fastjson</artifactId>
+            <version>${util-fastjson.version}</version>
         </dependency>
         <!-- jwt -->
         <dependency>
